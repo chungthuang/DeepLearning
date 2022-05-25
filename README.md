@@ -1,4 +1,4 @@
-# <center> Deep Learning Project: Bankcrptcy Prediction Model
+# <center> Deep Learning Project: Bankcruptcy Prediction Model
   
   
 ## Objective
