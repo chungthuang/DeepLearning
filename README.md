@@ -1,4 +1,4 @@
-# <center> Deep Learning Project: Bankcruptcy Prediction Model
+# <center> Deep Learning Project: Bankruptcy Prediction Model
   
   
 ## Objective
